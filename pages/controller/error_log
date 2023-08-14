@@ -1,0 +1,41 @@
+[08-Aug-2023 11:01:14 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[08-Aug-2023 11:01:14 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[08-Aug-2023 11:01:27 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 11:19:20 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[08-Aug-2023 11:19:20 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[08-Aug-2023 11:26:19 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 11:28:16 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[08-Aug-2023 11:28:16 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[08-Aug-2023 11:30:09 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 13:39:28 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[08-Aug-2023 13:39:28 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[08-Aug-2023 13:48:42 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 13:53:48 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 13:55:40 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[08-Aug-2023 13:55:40 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[08-Aug-2023 13:57:25 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 13:57:47 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 13:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[08-Aug-2023 13:59:55 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[08-Aug-2023 14:05:19 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 14:05:58 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[08-Aug-2023 14:31:01 Asia/Jakarta] PHP Warning:  Undefined array key "statusasal" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 15
+[08-Aug-2023 14:31:13 Asia/Jakarta] PHP Warning:  Undefined array key "statusasal" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 15
+[08-Aug-2023 14:35:12 Asia/Jakarta] PHP Warning:  Undefined array key "statusasal" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 15
+[09-Aug-2023 11:29:37 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[09-Aug-2023 11:29:37 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[09-Aug-2023 11:34:31 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[09-Aug-2023 13:57:29 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[09-Aug-2023 13:57:29 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[09-Aug-2023 14:03:02 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[09-Aug-2023 14:08:36 Asia/Jakarta] PHP Warning:  Undefined array key "statusasal" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 5
+[09-Aug-2023 14:12:02 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp2 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 44
+[09-Aug-2023 14:12:02 Asia/Jakarta] PHP Warning:  Undefined variable $dpjp3 in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/tambahpasienbaru.php on line 45
+[09-Aug-2023 14:14:28 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[09-Aug-2023 14:39:29 Asia/Jakarta] PHP Warning:  Undefined array key "rm" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/pulangkanpasien.php on line 5
+[10-Aug-2023 07:32:39 Asia/Jakarta] PHP Warning:  Undefined array key "statusasal" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 5
+[10-Aug-2023 07:32:39 Asia/Jakarta] PHP Warning:  Undefined array key "menu" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 6
+[10-Aug-2023 07:32:39 Asia/Jakarta] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 6
+[10-Aug-2023 07:32:45 Asia/Jakarta] PHP Warning:  Undefined array key "statusasal" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 5
+[10-Aug-2023 07:32:45 Asia/Jakarta] PHP Warning:  Undefined array key "menu" in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 6
+[10-Aug-2023 07:32:45 Asia/Jakarta] PHP Deprecated:  strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/bedinfo.rsintanhusada.com/pages/controller/readytouse.php on line 6

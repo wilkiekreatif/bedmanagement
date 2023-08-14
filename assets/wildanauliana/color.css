@@ -1,0 +1,121 @@
+.readytouse {
+	background-color: #ffffff;
+}
+.booking {
+	background-color: #fbff45;
+}
+.rencanapulang {
+	background-color: #dbdbdb;
+}
+.readytoclean {
+	background-color: #d0a0ff;
+}
+.waitinglist {
+	background-color: #ffc34e;
+}
+.renovasi {
+	background-color: #ff7171;
+}
+.male {
+	background-color: #72d1fa;
+}
+.female {
+	background-color: #fc84b2;
+}
+
+.sidebar-wildan {
+	background-color: #baf3ea;
+}
+
+.bedstat {
+	outline-color: #000;
+	outline-width: 1px;
+	outline-style: solid;
+	margin-bottom: 15px;
+	width: 280px;
+	height: 215px;
+	margin-right: 15px;
+	border-radius: 15px;
+	float: left;
+}
+
+.bedstat-header {
+	display: flex;
+	padding: 5px;
+	border-bottom: 1px solid #000;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	width: 100%;
+	height: 30px;
+}
+
+.bedtitle {
+	margin-left: 5px;
+	width: 100%;
+	height: 20px;
+	/* background-color: '#35f'; */
+}
+
+.bedstatus {
+	padding-right: 5px;
+	text-align: right;
+	width: 200px;
+	/* background-color: '#333'; */
+}
+
+.konten {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.diagnosa {
+	border-top: 1px solid #000;
+	width: 100%;
+	height: 20px;
+}
+
+.konten-pasien {
+	display: flex;
+}
+
+.konten-namapasien {
+	width: 100%;
+	height: 20px;
+}
+
+.konten-idpasien {
+	width: 60px;
+	height: 20px;
+	text-align: right;
+}
+.konten-jaminan {
+	width: 500px;
+	height: 20px;
+	text-align: right;
+}
+
+.footer-konten {
+	position: relative;
+	/* background-color: #ff4; */
+	height: 35px;
+	border-top: 1px solid #000;
+}
+
+.tombolupdate {
+	color: #000;
+	padding-top: 5px;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	position: absolute;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.tombolupdate:hover {
+	text-decoration: none;
+	color: #000;
+	background-color: #baf3ea;
+}

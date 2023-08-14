@@ -1,0 +1,66 @@
+#bedstatus ===============================================
+0: ReadytoUse,			      5: terisi,
+1: rencanapulang,		      6: booking,
+2: readytoclean,		      7: male,
+3: renovasi,			        8: female
+4: waitinglist,
+
+#mst_bed =================================================
+id 	      -int*		          trx_id		-varchar
+namabed   -varchar	        bedstatus	-int
+kelas	    -varchar	        status		-int
+ruangan	  -int
+
+#trx_pasien ==============================================
+trx_id    -int*             jaminan     -int
+pasien_id -varchar
+namapasien    -varchar
+jeniskelamin  -int
+tgllahir    -date
+asalpoli    -int
+tgl_masuk -datetime         tgl_pulang  -datetime
+diagnosa  -int              status      -int
+DPJP1     -int              tgl_input   -datetime
+DPJP2     -int              tgl_update  -datetime
+DPJP3     -int
+
+==========================================================
+SELECT  trx_waitinglist.trx_id,
+        trx_pasien.pasien_id,
+        trx_pasien.namapasien,
+        trx_waitinglist.namabed
+FROM trx_waitinglist
+INNER JOIN trx_pasien ON trx_pasien.trx_id = trx_waitinglist.trx_id
+
+SELECT  mst_bed.id AS BED_ID,
+        trx_pasien.pasien_id AS NO_REKMED,
+        mst_bed.namabed,
+        mst_bed.trx_id,
+        mst_bed.bedstatus,
+
+        mst_pasien.pasien_id,
+        mst_pasien.namapasien,
+        mst_pasien.jeniskelamin,
+
+        trx_pasien.jaminan
+
+FROM ((trx_pasien
+
+INNER JOIN mst_bed ON mst_bed.trx_id = trx_pasien.trx_id)
+INNER JOIN mst_pasien ON mst_pasien.pasien_id = trx_pasien.pasien_id)
+
+==========================================================
+#controller/renovasi.php
+HANYA merubah bedstatus menjadi 3 dan trx_id menjadi null
+
+#controller/readytouse.php
+HANYA merubah bedstatus menjadi 0 dan trx_id menjadi null
+
+#controller/rencanapulang.php
+HANYA merubah bedstatus menjadi 1
+
+
+==========================================================
+Update Folder and File
+- folder administrator
+- component/topmenu.php

@@ -1,0 +1,15 @@
+[05-Sep-2022 13:45:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[05-Sep-2022 13:45:34 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[06-Oct-2022 15:40:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[06-Oct-2022 15:40:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[13-Dec-2022 15:34:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[13-Dec-2022 15:34:36 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[03-Feb-2023 09:25:40 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[03-Feb-2023 09:25:40 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[03-Aug-2023 09:13:20 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home1/rsintanh/bedinfo.rsintanhusada.com/assets/vendor/wilkiecreative/config.php on line 1
+[03-Aug-2023 09:14:20 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home1/rsintanh/bedinfo.rsintanhusada.com/assets/vendor/wilkiecreative/config.php on line 1
+[03-Aug-2023 09:14:32 Asia/Jakarta] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home1/rsintanh/bedinfo.rsintanhusada.com/assets/vendor/wilkiecreative/config.php on line 5
+[03-Aug-2023 09:15:57 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home1/rsintanh/bedinfo.rsintanhusada.com/controllers/loginvalidate/index.php on line 41
+[03-Aug-2023 09:17:31 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home1/rsintanh/bedinfo.rsintanhusada.com/controllers/loginvalidate/index.php on line 41
+[03-Aug-2023 09:21:38 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes) in /home1/rsintanh/bedinfo.rsintanhusada.com/controllers/loginvalidate/index.php on line 41
+[03-Aug-2023 09:24:06 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in /home1/rsintanh/bedinfo.rsintanhusada.com/controllers/loginvalidate/index.php on line 50
